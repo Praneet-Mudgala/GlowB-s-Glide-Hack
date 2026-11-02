@@ -1,5 +1,17 @@
 <a id="readme-top"></a>
 
+
+
+# GlowB's Glide
+Made for Hack Club Terra
+This is an infinite sidescroller game similar to the Dino Game. Watch out for sea urchins and pufferfish.
+
+## Instructions ##
+
+
+
+
+
 <!-- SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
