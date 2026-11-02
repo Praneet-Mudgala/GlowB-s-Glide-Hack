@@ -11,7 +11,7 @@ This is an infinite sidescroller game similar to the Dino Game. Watch out for se
 
 
 
-
+## Other ##
 <!-- SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
